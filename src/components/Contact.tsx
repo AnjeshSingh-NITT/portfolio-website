@@ -20,17 +20,17 @@ const Contact = () => {
           </p>
           <div className="flex justify-center space-x-8">
             <SocialLink
-              href="https://github.com"
+              href="https://github.com/AnjeshSingh-NITT"
               icon={<Github size={28} />}
               label="GitHub"
             />
             <SocialLink
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/anjeshsingh-nitt/"
               icon={<Linkedin size={28} />}
               label="LinkedIn"
             />
             <SocialLink
-              href="mailto:contact@anjeshsingh.com"
+              href="mailto:singhanjesh@gmail.com"
               icon={<Mail size={28} />}
               label="Email"
             />
