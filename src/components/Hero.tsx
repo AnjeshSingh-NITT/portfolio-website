@@ -90,15 +90,12 @@ const Hero = () => {
             icon={<Linkedin className="transition-transform group-hover:rotate-12" />} 
             label="LinkedIn" 
           />
-          <motion.button 
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            className="group flex items-center space-x-2 px-8 py-4 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg relative"
-          >
-            <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-lg blur-lg opacity-50 group-hover:opacity-75 transition-opacity duration-300" />
-            <FileText size={20} className="relative transition-transform group-hover:rotate-12" />
-            <span className="relative">Resume</span>
-          </motion.button>
+          <SocialLink 
+  href="/AnjeshSingh_cv.pdf"  
+  icon={<FileText className="transition-transform group-hover:rotate-12" />} 
+  label="Resume" 
+/>
+
         </motion.div>
       </div>
     </motion.section>
