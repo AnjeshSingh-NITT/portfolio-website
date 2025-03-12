@@ -1,6 +1,6 @@
 # Anjesh Singh - Portfolio Website
 
-A modern, futuristic portfolio website built with React and Tailwind CSS. Features a sleek dark theme with interactive elements and smooth animations.
+A simple portfolio website built with React and Tailwind CSS. Features a sleek dark theme with interactive elements and smooth animations.
 
 ## 🚀 Features
 
@@ -37,7 +37,3 @@ A modern, futuristic portfolio website built with React and Tailwind CSS. Featur
    ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
