@@ -81,12 +81,12 @@ const Hero = () => {
           className="flex justify-center items-center space-x-6"
         >
           <SocialLink 
-            href="https://github.com" 
+            href="https://github.com/AnjeshSingh-NITT" 
             icon={<Github className="transition-transform group-hover:rotate-12" />} 
             label="GitHub" 
           />
           <SocialLink 
-            href="https://linkedin.com" 
+            href="https://linkedin.com/in/anjeshsingh-nitt" 
             icon={<Linkedin className="transition-transform group-hover:rotate-12" />} 
             label="LinkedIn" 
           />
