@@ -2,6 +2,15 @@
 
 A simple portfolio website built with React and Tailwind CSS. Features a sleek dark theme with interactive elements and smooth animations.
 
+---
+
+![image](https://github.com/user-attachments/assets/5dc2f479-8e49-4686-9eb8-0c6e1613f778)
+
+![image](https://github.com/user-attachments/assets/10fac8cf-5aeb-4407-a258-9ecf7ab53a91)
+
+![image](https://github.com/user-attachments/assets/821cda54-9d72-421d-80d8-57d1099216a3)
+
+
 ## 🚀 Features
 
 - Responsive design
